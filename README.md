@@ -1,8 +1,8 @@
 # About Me :
 - 🎓 Sophomore @[NSUT West Campus](http://gecdelhi.ac.in)
 - 🌱 Learning Android Dev
-- 📫 Contact me: pushkarraaja@gmail.com
-- ⚡ Fun fact: I am a Cinema Geek, I love watching and reading about Movies 🎦
+- ⭐⭐ on Codechef : [Profile](https://www.codechef.com/users/dakuchidiya)
+- 📫 Contact me: [Linkedin](https://www.linkedin.com/in/pushkarraja/) [Email](pushkarraaja@gmail.com)
 
 
 ## Projects :
