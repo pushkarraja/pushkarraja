@@ -2,6 +2,8 @@
 ## Profile
 
 <a href="https://www.linkedin.com/in/pushkarraja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/pushkarraja" target="_blank"><img src="https://img.shields.io/badge/-Codechef-05122A?style=flat&logo=codechef" alt="CodeChef"></a>
+
 
 ## 🛠 &nbsp;Tech Stack
 
