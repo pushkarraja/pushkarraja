@@ -3,6 +3,7 @@
 
 <a href="https://www.linkedin.com/in/pushkarraja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.codechef.com/users/dakuchidiya" target="_blank"><img src="https://img.shields.io/badge/-Codechef-05122A?style=flat&logo=codechef&logoColor=white" alt="CodeChef"></a>
+<a href="https://leetcode.com/dakuchidiya" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-05122A?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 
 ## 🛠 &nbsp;Tech Stack
